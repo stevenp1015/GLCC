@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+google-adk
+python-dotenv
+google-generativeai
+httpx
